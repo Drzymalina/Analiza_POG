@@ -7,6 +7,7 @@ author=Paula Drzymała
 email=paula.m.drzymala@gmail.com
 about=Analiza ustaleń planu ogólnego gminy (POG) w granicach MPZP lub dla terenów inwestycji DWZ. Wtyczka umożliwia analizę wszystkich obiektów lub tylko obiektów zaznaczonych oraz generowanie uporządkowanego raportu Excel.
 category=Vector
+license=MIT
 experimental=False
 deprecated=False
 tags=POG, MPZP, DWZ, planning, urban planning
